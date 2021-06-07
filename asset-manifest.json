@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/core_task/static/css/main.69774e20.chunk.css",
+    "main.js": "/core_task/static/js/main.022530e2.chunk.js",
+    "main.js.map": "/core_task/static/js/main.022530e2.chunk.js.map",
+    "runtime-main.js": "/core_task/static/js/runtime-main.8b9ee60f.js",
+    "runtime-main.js.map": "/core_task/static/js/runtime-main.8b9ee60f.js.map",
+    "static/js/2.553908f1.chunk.js": "/core_task/static/js/2.553908f1.chunk.js",
+    "static/js/2.553908f1.chunk.js.map": "/core_task/static/js/2.553908f1.chunk.js.map",
+    "index.html": "/core_task/index.html",
+    "static/css/main.69774e20.chunk.css.map": "/core_task/static/css/main.69774e20.chunk.css.map",
+    "static/js/2.553908f1.chunk.js.LICENSE.txt": "/core_task/static/js/2.553908f1.chunk.js.LICENSE.txt",
+    "static/media/time-logo.02bfe2c1.jpg": "/core_task/static/media/time-logo.02bfe2c1.jpg",
+    "static/media/user-img.35557a25.jpg": "/core_task/static/media/user-img.35557a25.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b9ee60f.js",
+    "static/js/2.553908f1.chunk.js",
+    "static/css/main.69774e20.chunk.css",
+    "static/js/main.022530e2.chunk.js"
+  ]
+}
