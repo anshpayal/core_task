@@ -1,23 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
+import BatchInfo from "./Component/BatchInfo";
+import Rating from "./Component/Rating";
+import TimeTable from "./Component/TimeTable";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="top-section">
+        <BatchInfo />
+        <Rating />
+      </div>
+      <div className="middle-section">
+        <p>Activities | 26th Apr, 2020</p>
+        <div className="line"></div>
+        <button className="btn">+ Schedule Activity</button>
+        </div>
+      <div className="bottom-section">
+        <TimeTable />
+      </div>
     </div>
   );
 }
